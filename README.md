@@ -36,4 +36,6 @@ Even though I’m pretty sure Jellyseer is the exact same just for Jellyfin. But
 •	qBitTorrent
 
 
-# Download the pdf file for the full docs.
+# Download or read through the pdf file for the full docs.
+
+https://github.com/MathiasFurenes/synology-arr-guide/blob/main/arr-stack.pdf
