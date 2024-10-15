@@ -36,4 +36,4 @@ Even though I’m pretty sure Jellyseer is the exact same just for Jellyfin. But
 •	qBitTorrent
 
 
-Download the pdf file for the full docs.
+# Download the pdf file for the full docs.
