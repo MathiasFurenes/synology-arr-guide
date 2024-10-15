@@ -25,8 +25,6 @@ Most likely you want a combination of a lot of them.
 We also need to figure out whether you want it to be connected to a VPN. 
 Here is a break-down of all the apps and their use-cases:
 
-## The apps I will cover in this guide
-
 ## What are the *arrs?
 
 ### From the wiki itself:
