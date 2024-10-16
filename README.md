@@ -6,6 +6,8 @@ It also includes a TL;DR for the lazy ones, but just for how to isntall it. The 
 The TL;DR also assumes you actually know a little bit about the subject, as if you do not you should read the full length docs.
 Please comment anything that would make it better. Things I should add, remove, change or other things. If you get stuck anywhere, you can always drop a comment with your problem I will try to get back to you.
 
+If you find any spelling mistakes, incorrect facts or anything I can improve in any way please let me know. I want to make this the best I can an d hope this can one day be a "definitive" guide for *arr apps on Synology.
+
 
 # HOW TO INSTALL A FULL ARR-STACK ON SYNOLOGY NAS RUNNING DSM 7.2
 
