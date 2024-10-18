@@ -113,4 +113,4 @@ Read the docs for my recommendations
 
 # Download or read through the pdf file for the full docs.
 
-https://github.com/MathiasFurenes/synology-arr-guide/blob/main/arr-stack-rev1.2.pdf
+https://github.com/MathiasFurenes/synology-arr-guide/blob/main/arr-stack-rev1.3.pdf
