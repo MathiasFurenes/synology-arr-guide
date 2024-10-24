@@ -15,7 +15,7 @@ If you find any spelling mistakes, incorrect facts or anything I can improve in 
 ## Before we begin
 
 ### Info about TL;DR
-TL;DR is at the bottom of the docs.
+Read the docs for TL;DR
 
 ### Legal Disclaimer
 For legal reasons I must state that I do not condone illegal pirating of copyrighted material. 
@@ -106,6 +106,7 @@ I would like to cover as many as possible, but I have not used or tried some of 
 •	Overseer
 •	Requestrr
 •	qBitTorrent
+•	tautulli
 
 ### Hardware specs:
 Read the docs for my recommendations
