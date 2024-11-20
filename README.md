@@ -68,30 +68,6 @@ Goes together with Overseerr or Radarr and Sonarr to allow for requesting throug
 Arr-stack:
 The arr-stack just refers to a collection of these applications bundled and working together. 
 
-### All the different *arr apps
-
-All the different *arr apps
-Prowlarr – Index manager. It searches the torrent sites for downloads (Recommended for everyone)
-Flaresolverr – Some indexers require you to solve a Cloudflare captcha. Flaresolverr can do this.
-Jackett – Alternative to Prowlarr. Most find Prowlarr to be both easier to set up and better to use.
-Sonarr – TV Shows/Anime Shows downloader.
-Radarr – Movie downloader.
-Lidarr – Music downloader.
-Readarr – E-book downloader
-Mylar – Comics downloader.
-Bazarr – Subtitle downloader for your Movies and TV Shows.
-Lazy Librarian – A program to follow authors and grab metadata for digital reading.
-Whisparr – Adult videos downloader.
-GlueTUN – Required for use of VPN
-Plex – A frontend to your media server. It’s where you access all your media, in the style of something like Netflix. It also has a very good Spotify-like app called plexamp.
-Jellyfin – Also a frontend to your media server. Jellyfin is, in contrast to Plex, open-source. This means that all of it’s features is and always will be free, but it also means that it doesn’t have the same funding and therefore might not have all of the features Plex has.
-Overseerr – Allows for easy requesting of movies and TV shows to add to Plex.
-Jellyseerr – Same as Overseer but for Jellyfin.
-Ombi – App to request Movies and TV Shows for plex or Emby.
-Requestrr – Allows for requests for Sonarr and Radarr via chat, like Discord. It can also be integrated with Ombi and Overseer.
-qBitTorrent – Torrent download client.
-NZBGet – NZB download client.
-There are even more, but I have not gotten into these myself. These are the ones I have atleast some knowledge about.
 
 ### The apps i will cover in this guide:
 
@@ -107,6 +83,8 @@ I would like to cover as many as possible, but I have not used or tried some of 
 •	Requestrr
 •	qBitTorrent
 •	tautulli
+•	Sabnzbd
+•	NZBHydra2
 
 ### Hardware specs:
 Read the docs for my recommendations
