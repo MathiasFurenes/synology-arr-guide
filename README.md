@@ -7,6 +7,9 @@ The TL;DR also assumes you actually know a little bit about the subject, as if y
 Please comment anything that would make it better. Things I should add, remove, change or other things. If you get stuck anywhere, you can always drop a comment with your problem I will try to get back to you.
 You can either comment here on github, or reach out to me on Reddit: https://www.reddit.com/user/MattiTheGamer/. You can also DM me on Discord @matti1003.
 
+##Support me
+I hate to ask for money, and I only really do this for fun and to help you guys out. But a guy recently commented on a reddit post of mine that I should  setup donations so I might be able to get a little kickback on my hard work. Well, I figured why not. I will not beg for your money, and don't want you to feel obligated to give me anything at all. But if you really want to support me, you can follow this link and give a custom amount of money via Paypal: https://www.paypal.com/donate/?hosted_button_id=DK7VP9RD2LEQ2
+
 ## Note
 If you find any spelling mistakes, incorrect facts or anything I can improve in any way please let me know. I want to make this the best I can and hope this can one day be a "definitive" guide for *arr apps on Synology.
 
