@@ -1,10 +1,11 @@
 # **What is this?**
 
-This is my first github project. I want to share a .pdf file with documentation on how to install -arr apps on a Synology NAS device with a VPN.
+This is my first github project. I want to share a .pdf file with documentation on how to install -arr apps on a Synology NAS device with (or without) a VPN. It had mainly focus on BitTorrent, but when I learned about usenet and migrated my whole srtup to useNet i updated the docs to include UseNet aswell.
 Under you can read just a little snippet of my document. It spans well over 100 pages, and goes into detail on how to get the best possible experience with this setup.
 It also includes a TL;DR for the lazy ones, but just for how to install it. The configs you will have to read through, since it's so much important information there.
 The TL;DR also assumes you actually know a little bit about the subject, as if you do not you should read the full length docs.
 Please comment anything that would make it better. Things I should add, remove, change or other things. If you get stuck anywhere, you can always drop a comment with your problem I will try to get back to you.
+You can either comment here on github, or reach out to me on Reddit: https://www.reddit.com/user/MattiTheGamer/. You can also DM me on Discord @matti1003.
 
 ## Note
 If you find any spelling mistakes, incorrect facts or anything I can improve in any way please let me know. I want to make this the best I can and hope this can one day be a "definitive" guide for *arr apps on Synology.
